@@ -2,7 +2,7 @@
 
   This app was created with React and the Open Weather API. The purpose of the app was track the weather forecast over the next 12 hours in a city.
 
-![alt text](images/open-weather-app.png "Example")
+![alt text](images/Open-weather-app.png "Example")
 
 # Acknowledgements
 
